@@ -36,4 +36,8 @@
            </plugin>
         </plugins>
     </build>
+ <reports>
+    <report>maven-files-plugin<report>
+ </reports>
+
 </project>
