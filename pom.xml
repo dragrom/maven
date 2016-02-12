@@ -50,7 +50,7 @@
     </repository>
     <snapshotRepository>
       <uniqueVersion>true</uniqueVersion>
-      <id>snapshot</id>
+      <id>snapshots</id>
       <name>Snapshots</name>
       <url>	http://10.1.2.11:8081/nexus/content/repositories/snapshots</url>
       <layout>legacy</layout>
