@@ -39,5 +39,16 @@
  <reports>
     <report>maven-files-plugin</report>
  </reports>
+ 
+ <repositories>
+    <repository>
+      <id>snapshots</id>
+      <url>http://10.1.2.11:8081/nexus/content/repositories/snapshots</url>
+    </repository>
+    <repository>
+      <id>releases</id>
+      <url>http://10.1.2.11:8081/nexus/content/repositories/releases</url>
+    </repository>
+  </repositories>
 
 </project>
